@@ -19,7 +19,7 @@ vim.g.maplocalleader = ' '
 vim.g.have_nerd_font = true
 
 -- [[ Setting options ]]
-require 'options'
+require 'vim-options'
 
 -- [[ Basic Keymaps ]]
 require 'keymaps'
