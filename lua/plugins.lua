@@ -26,9 +26,6 @@ require('lazy').setup({
   -- Linting
   require 'plugins.lint',
 
-  -- Autoformat
-  require 'plugins.conform',
-
   -- Autocompletion
   require 'plugins.blink-cmp',
 
